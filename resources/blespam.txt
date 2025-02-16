@@ -1,0 +1,9 @@
+The BLE spam exists for official firmware in a GitHub repo, but keep in mind that:
+
+1) You will need to look for it and compile it yourself.
+
+2) The crash has been fixed, instead it's mostly an annoyance at this point with Bluetooth connection pop-ups. 
+
+3) It can be considered an attempted Denial of Service (DoS) attack, so running it can get you in legal trouble. 
+
+Illegal activities, even for "educational purposes," are not allowed to be discussed in the official firmware discord. Please do not ask us where to find it. 

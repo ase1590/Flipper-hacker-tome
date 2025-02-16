@@ -1,0 +1,9 @@
+Oh, you saw this neat device on TikTok and want to know if it was real or not, huh?
+Well, the device itself is very much real. What you saw though, well, probably not. 
+Most of what is shown in those videos is either completely fake, 
+partially fake, illegal, 
+or some combination of all three. You should know that we do not condone illegal activities, nor the encouraging of such.
+
+What is the Flipper, you ask? Flipper Zero is an educational pentesting tool, designed by geeks, built for geeks. It's a powerful tool that fits in your pocket. It really only has three limits: physical hardware limitations, your coding skills, and your imagination. Flipper's Firmware is completely open, so you have the power to make Flipper into what you want it to be. It's designed to be played with, to be nearly broken. It's in the very nature of the device to require recovery from the brink of death, which is exactly why it has a robust recovery mode.
+
+So if you want to learn and be a part of the community, stick around! Put in the effort, and you will learn plenty with this community!

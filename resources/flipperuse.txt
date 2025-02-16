@@ -1,0 +1,8 @@
+Flipper is not a tool to be used illegally on items without permission.
+It is first and foremost a tool to learn from and use to research.
+Don't be yet another unoriginal burden on society by doing illegal things.
+Instead, go out and get official permission from a local business to try things on their equipment.
+Write up a neat little report for them on what you learned and what was exploitable.
+Bonus points if you can give them recommendations on how to secure their systems for the future.
+Flipper can be your path into the very beginnings of professional penetration testing.
+Just make sure you get permission first!

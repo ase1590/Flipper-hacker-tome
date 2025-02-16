@@ -1,0 +1,6 @@
+I see you're interested in bank cards (aka emv). 
+First off: No, you cannot use Flipper to emulate your bank card.
+
+The Flipper used to show some of the public details of the card, but this was removed in release 0.81.1 because it caused confusion and led to people (and companies) thinking the Flipper could "skim" bank cards. 
+That said, even if this information was shown, the Flipper would not work with pay functions (and there's a high likelihood it never will). 
+All payment functions of bank cards are encrypted and the Flipper Zero cannot interact with those functions. 

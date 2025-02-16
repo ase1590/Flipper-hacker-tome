@@ -7,7 +7,7 @@
 void main_menu_scene_on_enter(void* context) {
     App* app = context;
     submenu_reset(app->submenu);
-    submenu_set_header(app->submenu, "Table of Contents");
+    submenu_set_header(app->submenu, "Tome of Knowledge");
 
     for(size_t i = 0; i < number_of_chapters; i++) {
         submenu_add_item(app->submenu, chapters[i].name, i, menu_callback, app);
@@ -163,7 +163,7 @@ void topic_scene_on_enter(void* context) {
         dynamic_buffer_append(&dynamic_content, "\0", 1);
         furi_string_free(line);
         file_stream_close(app->file_stream);
-        size_t max_line_width = WIDGET_WIDTH / CHAR_WIDTH;
+        size_t max_line_width = WIDGET_WIDTH / CHARD_WIDTH;
         char* wrapped_text = wrap_text(dynamic_content.data, max_line_width);
         dynamic_buffer_free(&dynamic_content);
 

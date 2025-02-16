@@ -1,0 +1,10 @@
+People in tech circles & engineering in general appreciate curiosity and effort above all else. Asking a low effort question results in getting a low effort answer. You know what the lowest effort answer of all is? 
+"Go google it and figure it out." So if you find that you get told to google it and figure it out a lot, maybe you should learn how to ask stronger questions.
+
+Example:
+
+Weak: Hey John, can I use python to do x?
+
+Better: Hey John, I've got this python code, but it's doing y when I need it to do z. Any hints on what I'm doing wrong?
+
+Strong: Hey John, I'm trying to accomplish xyz, using python. I've gotten x done, this is x. I've got this much done in y, but I'm struggling to connect it to z. How can I improve this and make it flow smoothly from x to y z?

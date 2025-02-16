@@ -1,6 +1,6 @@
 App(
-    appid="c_book",
-    name="The C Prog. Language",
+    appid="hackertome",
+    name="Flipper Hacker Tome",
     apptype=FlipperAppType.EXTERNAL,
     entry_point="c_book_app",
     requires=["gui"],
@@ -12,5 +12,5 @@ App(
     fap_author="@armixz",
     fap_weburl="https://github.com/armixz/Flipper-Zero-The-C-Programming-Language",
     fap_version="0.2",
-    fap_description="The C Programming Language, Flipper Zero Edition (by Brian W. Kernighan, Dennis M. Ritchie)",
+    fap_description="Flipper hackers tome of knowledge",
 )
